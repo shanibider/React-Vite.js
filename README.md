@@ -19,6 +19,10 @@ for a seamless development experience.
   - [x] Learn about conditional rendering in React.
   - [x] Understand the difference between class and functional components.
 
+# Useful Links 🖇️
+[Babel: JavaScript compiler](https://babeljs.io/)
+
+
 ## Getting Started
 
 To get started with these projects, follow these steps:
