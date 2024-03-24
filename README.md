@@ -1,29 +1,27 @@
 # 🚀React Projects with Vite.js <img height=50px src="https://skillicons.dev/icons?i=react"> <img height=50px src="https://skillicons.dev/icons?i=vite">
 
-<img height="150px" align="right" src="https://github.com/shanibider/Vite.js-With-React/assets/72359805/e3c6ac19-7d0b-4b57-9473-613b5203e5b3">
+<img height="170px" align="right" src="https://github.com/shanibider/Vite.js-With-React/assets/72359805/e3c6ac19-7d0b-4b57-9473-613b5203e5b3">
 
 This repository contains practice projects aimed at improving skills in 
-#### React.js, utilizing the Vite.js build tool <img height=20px src="https://skillicons.dev/icons?i=react"> <img height=20px src="https://skillicons.dev/icons?i=vite"> <img height=20px src="https://skillicons.dev/icons?i=js">,
+### React.js, utilizing the Vite.js build tool <img height=20px src="https://skillicons.dev/icons?i=react"> <img height=20px src="https://skillicons.dev/icons?i=vite"> <img height=20px src="https://skillicons.dev/icons?i=js">,
 for a seamless development experience.
 
 
 
 ## Overview 💻
   - [x] 🎯 Learn front-end development with React.
-  - [x] 🎯 Understand when and how to use React Components.
-  - [x] 🎯 Learn to pass Props and work with them.
-  - [x] 🎯 Learn to write JSX and understand JSX syntax.
-  - [x] 🎯 Learn about the React DOM.
-  - [x] 🎯 Learn State Management in React.
-  - [x] 🎯 Learn about React Hooks.
-  - [x] 🎯 Learn about conditional rendering in React.
-  - [x] 🎯 Understand the difference between class and functional components.
+  - [x] 🎯 Understand when and how to use **React Components**.
+  - [x] 🎯 Learn to **pass Prop**s and work with them.
+  - [x] 🎯 Learn to write **JSX** and understand JSX syntax.
+  - [x] 🎯 Learn about the **React DOM**.
+  - [x] 🎯 Learn **State Management** in React.
+  - [x] 🎯 Learn about **React Hooks**.
+  - [x] 🎯 Learn about **conditional rendering** in React.
+  - [x] 🎯 Understand the difference between **class and functional components**.
 
 
 
-
-
-# About React  <img height=30px src="https://skillicons.dev/icons?i=react"> -
+# About React <img height=30px src="https://skillicons.dev/icons?i=react"> -
 
 React is a popular JavaScript library for building user interfaces. Developed by Facebook, React has gained widespread adoption due to its simplicity, performance, and reusability. Here are some key features and concepts of React:
 
@@ -46,28 +44,46 @@ React is a popular JavaScript library for building user interfaces. Developed by
 Whether you're building a simple web application or a complex single-page application (SPA), React provides a powerful and flexible foundation for building dynamic and interactive user interfaces.
 
 
-## Screenshots + React Concepts - 
+# Important React Concepts + Examples 💻- 
 
-<img align="center" height="250px" src="https://github.com/shanibider/React-Vite.js/assets/72359805/0251929c-296f-467a-9cdb-88708003a4d2">
+<img align="center" height="300px" src="https://github.com/shanibider/React-Vite.js/assets/72359805/0251929c-296f-467a-9cdb-88708003a4d2">
 
-## 1. Arrow functions 🎯 -
+# 1. 🎯Arrow functions -
 ![react arrow functions](https://github.com/shanibider/React-Vite.js/assets/72359805/f42200d9-d43b-4ee1-87d3-ac53b3c726cd)
 
 
 
-## 2. useState 🎯 -
-### Example 1 🔎 - 
-![useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d262ff78-0423-4d95-a3ca-c8a70ae6a1ce)
-
-![react-useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d0b36f31-1f12-4a64-82e6-ffc4aa233ae3)
-
-##### 🖊 Syntax:
+# 2. 🎯useState -
+### 🖊 Syntax:
 <img height="280px" src="https://github.com/shanibider/React-Vite.js/assets/72359805/9e40f176-214c-4640-ae1d-be89b211e250">
 
-### Example 2 🔎 - 
+### 🔎Example 1  - 
+![useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d262ff78-0423-4d95-a3ca-c8a70ae6a1ce)
+
+## 🖥React useState Example - 
+![react-useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d0b36f31-1f12-4a64-82e6-ffc4aa233ae3)
+
+
+### 🔎Example 2  - 
 ![useStateexample2](https://github.com/shanibider/React-Vite.js/assets/72359805/b211b5ee-746d-4f70-840f-5fab81861d5b)
 
 
+# 3. 🎯Event Handling -
+![eventHandling](https://github.com/shanibider/React-Vite.js/assets/72359805/2f1fe253-a7c3-4bef-b4a2-652399b09b90)
+
+# 4. 🎯 Event Handling using Form -
+![eventHandling+forms](https://github.com/shanibider/React-Vite.js/assets/72359805/6692d7fd-8cca-4449-9170-a5c10808a254)
+
+## 🖥 React Form Example - 
+![forms](https://github.com/shanibider/React-Vite.js/assets/72359805/1dbbbecc-07af-4682-8521-e9131524246b)
+
+
+# 5. 🎯 Changing Complex State -
+![complex state](https://github.com/shanibider/React-Vite.js/assets/72359805/95cda713-1fc6-4e4e-abcc-ed67c6ba60bb)
+
+# 6. Spread Operator 🎯
+Using spread operator (...prevValue) to copy (shallow copy of objects or arrays) all properties from the previous state.
+![spread operator](https://github.com/shanibider/React-Vite.js/assets/72359805/db1a4009-914b-49ff-a052-0b4bc3602087)
 
 
 
