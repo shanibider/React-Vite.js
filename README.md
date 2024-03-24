@@ -1,7 +1,5 @@
 # 🚀React Projects with Vite.js <img height=50px src="https://skillicons.dev/icons?i=react"> <img height=50px src="https://skillicons.dev/icons?i=vite">
 
-https://github.com/shanibider/React-Vite.js/assets/72359805/93ce611d-2448-43a9-ab2b-062c9976ca21
-
 <img height="150px" align="right" src="https://github.com/shanibider/Vite.js-With-React/assets/72359805/e3c6ac19-7d0b-4b57-9473-613b5203e5b3">
 
 This repository contains practice projects aimed at improving skills in 
