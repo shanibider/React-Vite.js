@@ -1,5 +1,7 @@
 # 🚀React Projects with Vite.js <img height=50px src="https://skillicons.dev/icons?i=react"> <img height=50px src="https://skillicons.dev/icons?i=vite">
 
+https://github.com/shanibider/React-Vite.js/assets/72359805/93ce611d-2448-43a9-ab2b-062c9976ca21
+
 <img height="150px" align="right" src="https://github.com/shanibider/Vite.js-With-React/assets/72359805/e3c6ac19-7d0b-4b57-9473-613b5203e5b3">
 
 This repository contains practice projects aimed at improving skills in 
@@ -23,8 +25,7 @@ for a seamless development experience.
 
 
 
-
-# About React  <img height=30px src="https://skillicons.dev/icons?i=react">
+# About React  <img height=30px src="https://skillicons.dev/icons?i=react"> -
 
 React is a popular JavaScript library for building user interfaces. Developed by Facebook, React has gained widespread adoption due to its simplicity, performance, and reusability. Here are some key features and concepts of React:
 
@@ -46,6 +47,34 @@ React is a popular JavaScript library for building user interfaces. Developed by
 
 Whether you're building a simple web application or a complex single-page application (SPA), React provides a powerful and flexible foundation for building dynamic and interactive user interfaces.
 
+
+## Screenshots + React Concepts - 
+
+<img align="center" height="250px" src="https://github.com/shanibider/React-Vite.js/assets/72359805/0251929c-296f-467a-9cdb-88708003a4d2">
+
+## 1. Arrow functions 🎯 -
+![react arrow functions](https://github.com/shanibider/React-Vite.js/assets/72359805/f42200d9-d43b-4ee1-87d3-ac53b3c726cd)
+
+
+
+## 2. useState 🎯 -
+### Example 1 🔎 - 
+![useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d262ff78-0423-4d95-a3ca-c8a70ae6a1ce)
+
+![react-useState](https://github.com/shanibider/React-Vite.js/assets/72359805/d0b36f31-1f12-4a64-82e6-ffc4aa233ae3)
+
+##### 🖊 Syntax:
+<img height="280px" src="https://github.com/shanibider/React-Vite.js/assets/72359805/9e40f176-214c-4640-ae1d-be89b211e250">
+
+### Example 2 🔎 - 
+![useStateexample2](https://github.com/shanibider/React-Vite.js/assets/72359805/b211b5ee-746d-4f70-840f-5fab81861d5b)
+
+
+
+
+
+
+<br>
 
 ## Example 🔎
 Here's a simple example of a React component using JSX:
@@ -88,8 +117,6 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 This will render the Greeting component with the name "John" inside the root element of your HTML document.
 ```
-
-
 
 
 
